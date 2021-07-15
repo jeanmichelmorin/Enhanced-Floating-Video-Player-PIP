@@ -1,2 +1,2 @@
 # Floating Video Player using PIP
-Floating Video Player For YouTube (Picture-In-Picture)
+Floating Video Player (Picture-In-Picture)
