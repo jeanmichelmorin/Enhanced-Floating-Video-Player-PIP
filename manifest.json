@@ -1,0 +1,45 @@
+{
+	"name": "Enhanced Floating Video Player (PIP)",
+	"version": "2.0",
+	"manifest_version": 2,
+	"content_scripts": [
+		{
+			"matches": ["*://*/*"],
+			"js": ["js/pip_logic.js"]
+		},
+		{
+			"matches": ["*://*.youtube.com/*"],
+			"js": ["js/sites_integration/youtube.js"]
+		},
+		{
+			"matches": ["*://*.netflix.com/*"],
+			"js": ["js/sites_integration/netflix.js"]
+		},
+		{
+			"matches": ["*://*.twitch.tv/*"],
+			"js": ["js/sites_integration/twitch.js"]
+		}
+	],
+
+	"icons": {
+      		"128": "Icon.png"
+    },
+
+
+
+
+
+
+
+
+
+
+    "permissions": ["activeTab"],
+
+	"background" : {
+    	"scripts" : ["js/pip_logic.js", "js/background.js"],
+    	"persistent": false
+  	},
+
+    "browser_action": {}
+}
