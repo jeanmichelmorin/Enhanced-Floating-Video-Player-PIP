@@ -3,11 +3,11 @@ Floating Video Player (Picture-In-Picture)<br /><br />
 
 # How to download as a Chrome Extension
 
-## Automatic (may very rarely be 1 version behind): 
+## Automatic: 
 Visit https://chrome.google.com/webstore/detail/floating-video-player-for/oaihjcmhhokpahibakljjfkgbhghiffd
 <br /><br />
 
-## Manually (should always be up to date):
+## Manually:
 
 1. On this page, click on the green `Code` button. Select `Download ZIP`
 2. Unzip it anywhere in a folder, call the folder `Chrome PIP` (Name doesn't matter).
