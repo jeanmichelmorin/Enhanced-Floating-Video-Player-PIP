@@ -7,7 +7,7 @@ Floating Video Player (Picture-In-Picture)<br /><br />
 Visit https://chrome.google.com/webstore/detail/floating-video-player-for/oaihjcmhhokpahibakljjfkgbhghiffd
 <br /><br />
 
-## Manually:
+## Manually (No automatic updates):
 
 1. On this page, click on the green `Code` button. Select `Download ZIP`
 2. Unzip it anywhere in a folder, call the folder `Chrome PIP` (Name doesn't matter).
