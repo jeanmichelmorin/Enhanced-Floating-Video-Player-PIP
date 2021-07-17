@@ -29,9 +29,9 @@ function setupPipButton(PATH_OF_PARENT_TO_PLACE_BUTTON, POSITION, INJECT_HTML_BU
 			
 			document.querySelector(BUTTON_TARGET).addEventListener("click", () => {
 				
-				pip()
+				pip();
 
-			})
+			});
 
 }
 
@@ -63,5 +63,6 @@ function pip() {
 
 // Response from background.js -- The message sent by the browser extension icon (from background.js) is received here and the code below is executed.
 chrome.runtime.onMessage.addListener( (msg, sender) => {
-        pip()
+        pip();
 });
+

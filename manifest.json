@@ -1,6 +1,6 @@
 {
 	"name": "Enhanced Floating Video Player (PIP)",
-	"version": "2.0",
+	"version": "2.0.1",
 	"manifest_version": 2,
 	"content_scripts": [
 		{
