@@ -4,7 +4,7 @@ Floating Video Player (Picture-In-Picture)<br /><br />
 # How to download as a Chrome Extension
 
 ## Automatic: 
-Visit https://chrome.google.com/webstore/detail/floating-video-player-for/oaihjcmhhokpahibakljjfkgbhghiffd
+Visit https://chrome.google.com/webstore/detail/enhanced-floating-video-p/oaihjcmhhokpahibakljjfkgbhghiffd
 <br /><br />
 
 ## Manually (No automatic updates):
