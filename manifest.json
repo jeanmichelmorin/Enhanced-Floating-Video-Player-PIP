@@ -1,7 +1,8 @@
 {
 	"name": "Enhanced Floating Video Player (PIP)",
-	"version": "2.0.1",
+	"version": "2.0.2",
 	"manifest_version": 2,
+	"description": "A simple floating video player using Picture-In-Picture with direct integrations to YouTube, Twitch, Netflix, and more!",
 	"content_scripts": [
 		{
 			"matches": ["*://*/*"],
